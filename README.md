@@ -1,2 +1,2 @@
-# GSCO_project_20
-project 20 for WhiteHat
+# p5.play-boilerplate
+Boiler plate for p5.play
